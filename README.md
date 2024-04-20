@@ -25,7 +25,7 @@ I'm Bernad Okumu, a passionate software developer with a knack for building robu
 
 - **GitHub**: Feel free to explore my projects and contributions on [GitHub](https://github.com/bernotieno).
 - **LinkedIn**: Let's connect on [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile) and explore potential opportunities to collaborate.
-- **Email**: Have a project idea or just want to chat? Shoot me an email at [youremail@example.com](mailto:bernadokumu1@gmail.com).
+- **Email**: Have a project idea or just want to chat? Shoot me an email at [Email](bernadokumu1@gmail.com).
 
 Thanks for stopping by! Let's build something awesome together. 🚀
 
